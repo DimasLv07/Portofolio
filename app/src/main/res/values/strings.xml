@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Portofolio</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profile">Profile</string>
+    <string name="flutter">Flutter</string>
+    <string name="android">Android</string>
+    <string name="experience">Experience</string>
+    <string name="ui_ux">Sofware</string>
+    <string name="career">Student</string>
+    <string name="setting">Setting</string>
+    <string name="content_tentang">My name is Muhammad Abdul Latief. I’m a Software engineer student at IDN Boarding School learning to build cool and useful program I’m from indonesia and live in Tangerang, My principle is to learn by doing practicing.</string>
+    <string name="tentang">About</string>
+    <string name="edi_sunardi">Muhammad Abdul Latief</string>
+    <string name="app_android_btn">%s App Android</string>
+    <string name="documentation_link">Documentation Link</string>
+</resources>
